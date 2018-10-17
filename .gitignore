@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/ValenciaCppCourse/Debug
+/ValenciaCppCourse/.vs/ValenciaCppCourse/v15
+/ValenciaCppCourse/Project4_1/Debug
+/ValenciaCppCourse/Project4_1/my_svg.svg
