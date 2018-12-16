@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="300px" height="300px" xmlns="http://www.w3.org/2000/svg" version="1.1" >
+	<polygon points="0,300 300,300 300,0 0,0 " fill="transparent" stroke-width="1" stroke="rgb(255,0,0)" />
+	<polygon points="95,163 100,153 98,153 98,143 92,143 92,153 90,153 95,163 " fill="rgb(0,128,0)" />
+	<polygon points="35,203 40,193 38,193 38,183 32,183 32,193 30,193 35,203 " fill="rgb(255,255,0)" />
+	<polygon points="125,164 127,162 127,155 135,152 135,150 127,151 127,144 130,143 130,142 126,142 125,141 124,142 120,142 120,143 123,144 123,151 115,150 115,152 123,155 123,162 125,164 " fill="rgb(0,0,0)" />
+	<text x="200" y="100" fill="rgb(255,0,0)" font-size="12" font-family="Verdana" >Hello World</text>
+	<polyline points="5,295 35,205 65,175 95,165 125,166 " fill="transparent" stroke-width="0.5" stroke="rgb(0,0,255)" />
+	<circle cx="5" cy="295" r="2.16667" fill="rgb(0,0,0)" />
+	<circle cx="35" cy="205" r="2.16667" fill="rgb(0,0,0)" />
+	<circle cx="65" cy="175" r="2.16667" fill="rgb(0,0,0)" />
+	<circle cx="95" cy="165" r="2.16667" fill="rgb(0,0,0)" />
+	<circle cx="125" cy="166" r="2.16667" fill="rgb(0,0,0)" />
+	<polyline points="5,152 5,295 137,295 " fill="transparent" stroke-width="0.5" stroke="rgb(128,0,128)" />
+</svg>

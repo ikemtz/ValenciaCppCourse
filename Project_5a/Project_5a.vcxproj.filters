@@ -18,10 +18,10 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Graph.h">
+    <ClInclude Include="LittleFileReader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="LittleFileReader.h">
+    <ClInclude Include="GraphData.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -32,13 +32,13 @@
     <ClCompile Include="Project_5a.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Graph.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="LittleFileReader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Coordinate.h">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphData.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
