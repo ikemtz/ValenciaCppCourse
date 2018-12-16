@@ -1,45 +1,8 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-/ValenciaCppCourse/Debug
-/ValenciaCppCourse/.vs/ValenciaCppCourse/v15
-/ValenciaCppCourse/Project4_1/Debug
-/ValenciaCppCourse/Project4_1/my_svg.svg
-/.vs/ValenciaCppCourseWork/v15/ipch
-/.vs/ValenciaCppCourseWork/v15
+﻿/.vs/ValenciaCppCourseWork/v15
 /Debug
-/Project4_1/Debug/Project4_1.tlog
 /Project4_1/Debug
 /Project_5a/Debug
 /Project_5b/Debug
-*.zip
+/ValenciaCppCourse/.vs/ValenciaCppCourse/v15
 *.user
+*.zip
