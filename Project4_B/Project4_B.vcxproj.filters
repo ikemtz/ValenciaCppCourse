@@ -18,19 +18,31 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Coordinate.h">
+    <ClInclude Include="DataSeries.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="GraphData.h">
+    <ClInclude Include="Filter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="LittleFileReader.h">
+    <ClInclude Include="ImprovedLineChart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingAverage.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="simple_svg_1.0.0.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="LittleFileReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="Grapher.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Coordinate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -38,17 +50,23 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Project_5b.cpp">
+    <ClCompile Include="Project4_B.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GraphData.cpp">
+    <ClCompile Include="DataSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImprovedLineChart.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="LittleFileReader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="little_languages_graph_data" />
+    <ClCompile Include="GraphData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

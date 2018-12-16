@@ -6,10 +6,8 @@ using namespace svg;
 class Grapher
 {
 public:
-	Grapher(const GraphData graphData, const string fileName, int chartWidth = 500, int chartHeight = 200) :
+	Grapher(const GraphData graphData, const string fileName) :
 		_graphData(graphData),
-		_chartWidth(chartWidth),
-		_chartHeight(chartHeight),
 		_document(Document{ fileName,Layout(Dimensions(_chartWidth + (_marginX * 2), _chartHeight + (_marginY * 2)), Layout::BottomLeft) }) {	};
 
 
@@ -103,7 +101,7 @@ private:
 	const int _marginX = 50;
 	const int _marginY = 50;
 
-	int _chartWidth;
+	const int _chartWidth = 500;
 	const int _chartHeight = 200;
 
 	const int _axisFontSize = 10;
